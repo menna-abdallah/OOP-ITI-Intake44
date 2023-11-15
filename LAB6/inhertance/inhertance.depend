@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1700050166 source:e:\c++labs\lab6\inhertance\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	<Point.h>
+	<Shape.h>
+
+1700050959 source:e:\c++labs\lab6\inhertance\src\shape.cpp
+	"Shape.h"
+
+1700050111 e:\c++labs\lab6\inhertance\include\shape.h
+	<Point.h>
+
+1700050959 e:\c++labs\lab6\inhertance\include\point.h
+	<iostream>
+
+1700050959 source:e:\c++labs\lab6\inhertance\src\point.cpp
+	"Point.h"
+
