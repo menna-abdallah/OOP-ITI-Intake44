@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1699943966 source:e:\c++labs\lab5\compisition\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+
