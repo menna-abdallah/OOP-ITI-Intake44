@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1700062524 source:e:\c++labs\lab6\test\main.cpp
-	<iostream>
-	<stdlib.h>
-	<conio.h>
-	<graphics.h>
-
