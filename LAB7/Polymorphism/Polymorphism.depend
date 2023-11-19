@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1700371640 source:e:\c++labs\lab7\polymorphism\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+	"Shape.h"
+	"Circle.h"
+	"Line.h"
+	"Regtangle.h"
+
+1700371461 e:\c++labs\lab7\polymorphism\include\shape.h
+	"Point.h"
+
+1700371697 e:\c++labs\lab7\polymorphism\include\point.h
+	<iostream>
+
+1700371483 e:\c++labs\lab7\polymorphism\include\circle.h
+	"Shape.h"
+
+1700371487 e:\c++labs\lab7\polymorphism\include\line.h
+	"Shape.h"
+
+1700371493 e:\c++labs\lab7\polymorphism\include\regtangle.h
+	"Shape.h"
+
