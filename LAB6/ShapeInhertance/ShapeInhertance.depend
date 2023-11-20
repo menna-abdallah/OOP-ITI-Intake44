@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1700498859 source:e:\c++labs\lab6\shapeinhertance\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<graphics.h>
+
