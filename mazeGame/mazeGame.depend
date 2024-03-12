@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1710250792 source:g:\mazegame\main.cpp
+	"MazeGame.h"
+
+1710254531 g:\mazegame\include\mazegame.h
+	"MazeRunner.h"
+	<graphics.h>
+	<conio.h>
+	<dos.h>
+
+1710253938 g:\mazegame\include\mazerunner.h
+	<graphics.h>
+	<stdio.h>
+
